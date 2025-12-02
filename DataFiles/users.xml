@@ -1,0 +1,27 @@
+﻿<Users>
+	<User>
+		<Id>1</Id>
+		<Name>Rohan Shaw</Name>
+		<Email>rohan@example.com</Email>
+	</User>
+	<User>
+		<Id>2</Id>
+		<Name>Sneha Rao</Name>
+		<Email>sneha@example.com</Email>
+	</User>
+	<User>
+		<Id>3</Id>
+		<Name>Ankit Verma</Name>
+		<Email>ankit@example.com</Email>
+	</User>
+	<User>
+		<Id>4</Id>
+		<Name>Priya Singh</Name>
+		<Email>priya@example.com</Email>
+	</User>
+	<User>
+		<Id>5</Id>
+		<Name>Arjun Menon</Name>
+		<Email>arjun@example.com</Email>
+	</User>
+</Users>
